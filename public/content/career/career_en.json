@@ -8,35 +8,5 @@
     "endDate": "",
     "description": "",
     "type": "education"
-  },
-  {
-    "id": "career-2",
-    "position": "",
-    "organization": "",
-    "location": "",
-    "startDate": "",
-    "endDate": "",
-    "description": "",
-    "type": ""
-  },
-  {
-    "id": "career-3",
-    "position": "",
-    "organization": "",
-    "location": "",
-    "startDate": "",
-    "endDate": "",
-    "description": "",
-    "type": ""
-  },
-  {
-    "id": "career-4",
-    "position": "",
-    "organization": "",
-    "location": "",
-    "startDate": "",
-    "endDate": null,
-    "description": "",
-    "type": ""
   }
 ]
